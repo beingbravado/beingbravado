@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Gyanesh Sharma</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">a 3rd year B.Tech undergrad at JSSATE Noida, interested in Software Development and Competitive Programming. In my free time, you can find me making react websites and exploring some interesting fields.</h3>
 
 - 🔭 I’m currently working on [JSS Diaries](https://github.com/beingbravado/JSS-Diaries)
 
@@ -12,9 +12,10 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/gyanesh_sharmaa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="gyanesh_sharmaa" height="30" width="40" /></a>
-<a href="https://instagram.com/being.bravado" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="beingb.ravado" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/gyanesh-sharma-563368180" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gyanesh-sharma-563368180" height="30" width="40" /></a>
+<a href="https://instagram.com/beingb.ravado" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="beingb.ravado" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/beingbravado" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="beingbravado" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/BEING.BRAVADO" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codeforces.svg" alt="being.bravado" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/being.bravado" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codeforces.svg" alt="being.bravado" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
