@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Gyanesh Sharma</h1>
-<h3 align="center">a 3rd year B.Tech undergrad at JSSATE Noida, interested in Software Development and Competitive Programming. In my free time, you can find me making react websites and exploring some interesting fields.</h3>
+<h3 align="center">A 3rd year B.Tech undergrad at JSSATE Noida, interested in Software Development and Competitive Programming.<br/>In my free time, you can find me making react websites and exploring some interesting fields.</h3>
 
 - 🔭 I’m currently working on [JSS Diaries](https://github.com/beingbravado/JSS-Diaries)
 
