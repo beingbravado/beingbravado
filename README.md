@@ -1,5 +1,5 @@
 <h1 align="left">Hi 👋, I'm Gyanesh Sharma</h1>
-<h3 align="left">Softare Engineer with a lot of Queriosity<br/>Software Development and Competitive Programming excites me the most.<br/>In my free time, you can find me playing with Algorithms and exploring some interesting fields.</h3>
+<h3 align="left">Softare Engineer with a lot of Query-osity<br/>Software Development and Competitive Programming excites me the most.<br/>In my free time, you can find me playing with Algorithms and exploring some interesting fields.</h3>
 
 - 🔭 I’m currently working on [JSS Diaries](https://github.com/beingbravado/JSS-Diaries)
 
