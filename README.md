@@ -1,21 +1,15 @@
 <h1 align="left">Hi 👋, I'm Gyanesh Sharma</h1>
-<h3 align="left">Softare Engineer with a lot of Query-osity<br/>Software Development and Competitive Programming excites me the most.<br/>In my free time, you can find me playing with Algorithms and exploring some interesting fields.</h3>
-
-- 🔭 I’m currently working on [JSS Diaries](https://github.com/beingbravado/JSS-Diaries)
-
-- 💬 Ask me about **Data Structure and Algorithms**
-
-- 📫 How to reach me **sharmagyanesh199@gmail.com**
-
-- 📄 Know about my experiences [https://beingbravado.github.io/resume/](https://beingbravado.github.io/resume/)
-
+<h3 align="left">
+  Softare Engineer with a lot of Query-osity for solving complex problems.<br/>
+  Backend wizard who makes APIs behave and servers hum(most of the time).<br/>
+  I thrive on building products and tackling challenges in software development, driving innovation and continuous improvement.<br/>
+  Of course, I know how to use Last9, along with Prometheus, Grafana, and OpenTelemetry, to ensure comprehensive observability, optimize performance, and maintain system reliability at scale.
+</h3>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/gyanesh_sharmaa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="gyanesh_sharmaa" height="30" width="40" /></a>
+<a href="https://x.com/beingbravado" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="gyanesh_sharmaa" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/gyanesh-sharma-563368180" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gyanesh-sharma-563368180" height="30" width="40" /></a>
 <a href="https://instagram.com/beingb.ravado" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="beingb.ravado" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/beingbravado" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="beingbravado" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/being.bravado" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codeforces.svg" alt="being.bravado" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
